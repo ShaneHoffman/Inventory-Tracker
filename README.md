@@ -11,3 +11,5 @@ The backend uses Express, Node JS and Mongoose.
 # TO-DO
   - Finish backend
   - Start working on a frontend to view the inventory and make changes on a website
+
+Testing
